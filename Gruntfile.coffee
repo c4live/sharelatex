@@ -17,7 +17,7 @@ SERVICES = [{
 	repo: "https://github.com/sharelatex/clsi-sharelatex.git"
 }, {
 	name: "filestore"
-	repo: "https://github.com/cforlive/filestore-sharelatex.git"
+	repo: "https://github.com/c4live/filestore-sharelatex.git"
 }, {
 	name: "track-changes"
 	repo: "https://github.com/sharelatex/track-changes-sharelatex.git"
